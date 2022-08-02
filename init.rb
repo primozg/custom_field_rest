@@ -5,7 +5,7 @@ Redmine::Plugin.register :custom_field_rest do
   author 'Primož Gorkič'
   description 'This is a plugin for Redmine which adds tags from subvesrion webdav to Custom Fields'
   version '3.0'
-  url 'https://github.com/pgorkic/custom_field_rest'
+  url 'https://github.com/primozg/custom_field_rest'
 
 end
 
