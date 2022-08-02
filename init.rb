@@ -4,7 +4,7 @@ Redmine::Plugin.register :custom_field_rest do
   name 'Redmine SVN TAGS Custom Field Label plugin'
   author 'Primož Gorkič'
   description 'This is a plugin for Redmine which adds tags from subvesrion webdav to Custom Fields'
-  version '3.0'
+  version '3.1'
   url 'https://github.com/primozg/custom_field_rest'
 
 end
